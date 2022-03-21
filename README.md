@@ -27,7 +27,7 @@ https://github.com/kbehyar/stock-analysis/blob/main/Resources/VBA_Challenge_2018
 
 Analysis of module_2 code:
 
-This code is the refactored version of the original code. It contains two separate "For loops"
+This code is the refactored version of the original code. 
 
 The two links below show the process time for the two years of 2017 and 2018 using the Module_2 code:
 https://github.com/kbehyar/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG
@@ -37,9 +37,12 @@ Summary:
 
 Advantages and disadvantages of refactoring code:
 
-The main purpose of this project is to refactor and edit our existing code by taking fewer steps, using less memory, and improving the logic of our VBA code to enhance its efficiency and performance and to speed up the process. One of advantages of the refactored code is the process time which was significantly decreased. This will allow a much faster analysis of even larger data.
-While Module_1 code was more simplified and easier to follow for someone wanting to the learn process. 
-Module_2 code could 
+The main purpose of this project is to refactor and edit our existing code by taking fewer steps, using less memory, and improving the logic of our VBA code to enhance its efficiency and performance and to speed up the process. One of advantages of the refactored code is the process time which was significantly decreased. This will allow a much faster analysis of even larger data. 
+While Module_1 code was more simplified and easier to follow for someone wanting to the learn the process. 
+
 
 Detailed Analysis of the code:
+
+The refactored code included to separate "for loops" as opose to the original code which included a loop within a loop.
+
 While the two codes showed a very significant difference in processing time, I also ran the same codes on two different operating systems (PC and Mac). I noticed the OS with a superior CPU had a faster processing time. I also noticed that if there are other applications and software running in the background which I ran the codes, would cause a difference in the processing time since part of the CPU is processing these applications too.
