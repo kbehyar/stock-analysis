@@ -31,6 +31,7 @@ Analysis of module_2 code:
 This code is the refactored version of the original code. 
 
 The two links below show the process time for the two years of 2017 and 2018 using the Module_2 code:
+
 https://github.com/kbehyar/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG
 
 https://github.com/kbehyar/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png
